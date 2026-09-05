@@ -1,0 +1,3 @@
+export function Footer() {
+  return <footer className="site-footer"><div><strong>Namratha Sanapala</strong><p>Computer Science and Engineering undergraduate</p></div><div className="footer-links"><a href="https://github.com/Namratha18-hub" target="_blank" rel="noopener noreferrer">GitHub</a><a href="https://www.linkedin.com/in/namratha-sanapala" target="_blank" rel="noopener noreferrer">LinkedIn</a></div><p className="copyright">© 2026 Namratha Sanapala. All rights reserved.</p></footer>;
+}
