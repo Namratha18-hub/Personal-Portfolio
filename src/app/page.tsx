@@ -59,6 +59,8 @@ const certificates = [
   { issuer: "AWS", name: "Gen AI Foundations", url: "/certificates/aws-gen-ai-foundations.pdf" },
   { issuer: "AWS", name: "ML for NLP", url: "/certificates/aws-ml-for-nlp.pdf" },
   { issuer: "AWS", name: "ML Foundations", url: "/certificates/aws-ml-foundations.pdf" },
+  { issuer: "Cambridge English", name: "Qualification (Level-3)", url: "/certificates/cambridge_level-3.pdf" },
+  { issuer: "NSPC", name: "NSPC-2026", url: "/certificates/NSPC-2026.pdf" },
 ];
 
 export default function Home() {
